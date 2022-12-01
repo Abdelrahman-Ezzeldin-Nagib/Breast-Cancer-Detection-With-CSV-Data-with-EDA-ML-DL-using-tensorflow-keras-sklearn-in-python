@@ -6,3 +6,13 @@ the python code is avilable in the "Breast Cancer Detection Project.jpynb" file 
 
 Data description can be found here
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+python version == 3.7.6
+
+packages version were as follows
+autoviz version ==  0.1.58
+pandas version  ==  1.2.3
+numpy version is == 1.21.5
+matplotlib version ==  3.5.3
+sklearn version is == 1.0.2
+tensorflow version is == 2.8.3
